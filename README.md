@@ -20,8 +20,6 @@ Game developed for Women Game Jam 2021 (Theme: "Navigating unknown waters")
 - Natália (trilha sonora)
 - Priscila (programação)
 
-![Demo](./demo.gif)
-
 ## Como Jogar? | How to play?
 
 - Use as setas indicadas na tela do jogo e pressione-as no momento que cada tecla acender, isso fará com que o barco navegue rapidamente.
